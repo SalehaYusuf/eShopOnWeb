@@ -9,7 +9,7 @@ env:
   LOCATION: eastasia 
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: abc446e1-18bb-44e8-b481-d0e47ceb3a6d
-  WEBAPP-NAME: eshoponweb-webapp-createdby-me-using-github-find-it
+  WEBAPP-NAME: eshoponweb-webapp5555-cccreated
 
 jobs:
   #Build, test and publish .net web project in repository
